@@ -6,3 +6,13 @@
 {"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"09/06/2022 14:36:07"}
 {"level":"info","message":"Aplicação iniciada com sucesso.","timestamp":"09/06/2022 14:36:07"}
 {"level":"info","message":"Integration online, port: 3001","timestamp":"09/06/2022 14:36:07"}
+{"level":"info","message":"Process pid: 5829","timestamp":"09/06/2022 15:39:50"}
+{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"09/06/2022 15:39:51"}
+{"level":"info","message":"Aplicação iniciada com sucesso.","timestamp":"09/06/2022 15:39:51"}
+{"level":"info","message":"Integration online, port: 3001","timestamp":"09/06/2022 15:39:51"}
+{"level":"info","message":"Banco de dados desconectado com sucesso.","timestamp":"09/06/2022 15:47:49"}
+{"level":"info","message":"Process pid: 6015","timestamp":"09/06/2022 15:50:17"}
+{"level":"info","message":"Banco de dados conectado com sucesso.","timestamp":"09/06/2022 15:50:18"}
+{"level":"info","message":"Aplicação iniciada com sucesso.","timestamp":"09/06/2022 15:50:18"}
+{"level":"info","message":"Integration online, port: 3001","timestamp":"09/06/2022 15:50:18"}
+{"level":"info","message":"Banco de dados desconectado com sucesso.","timestamp":"09/06/2022 15:51:25"}
