@@ -1,0 +1,10 @@
+
+.base{
+width:99vw;
+height:99vh;
+background:grey;
+grid-template-rows: 5% 95%;
+display:grid;
+padding-top:100px;
+}
+

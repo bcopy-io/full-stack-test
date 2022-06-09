@@ -1,0 +1,12 @@
+{
+    "default": {
+        "port": 3001,
+        "database": "mongodb+srv://caique:214040@cluster0.71riqmd.mongodb.net/bcopy?retryWrites=true&w=majority",
+        "baseUrls": {
+        },
+        "credentials": {
+            "basicAuth": {
+            }
+        }
+    }
+}
